@@ -1,0 +1,62 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    padding: 0.8rem;
+    margin: 0.6rem;
+    border: 2px solid black;
+    border-radius: 5px;
+    user-select: none;
+}
+
+header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+}
+
+#icon {
+    width: 25px;
+    height: 25px;
+}
+
+main {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    margin: 1rem 0.6rem 0.4rem 0.6rem;
+    border: 1px solid black;
+    border-radius: 6px;
+}
+
+.button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0.2rem;
+    height: 1.8rem;
+    /*width: 1.5rem;*/
+    aspect-ratio: 1;
+    cursor: pointer;
+    border-right: 1px solid black;
+    border-radius: 6px 0 0 6px;
+}
+
+#picker {
+    height: 100%;
+}
+
+#color {
+    display: flex;
+    height: 2rem;
+    width: 8ch;
+    font-weight: 300;
+    justify-content: center;
+    align-items: center;
+    color: #2f2f2f;
+    font-size: 1.4rem;
+    user-select: all;
+}
