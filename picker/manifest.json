@@ -7,5 +7,8 @@
     "default_popup": "popup.html",
     "default_icon": "logo.png"
   },
-  "permissions": ["activeTab"]
+  "permissions": ["activeTab"],
+  "icons": {
+    "128": "logo.png"
+  }
 }
