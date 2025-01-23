@@ -11,6 +11,15 @@ Picker is a easy to use extension with simple UI that allows users to easily pic
 </div>
 <br>
 
+## [Just Copy](https://github.com/Krishnam2411/Browser-extensions/tree/main/Just%20Copy)
+
+Just Copy is a browser extension that lets you effortlessly search and copy code snippets with a single click, boosting efficiency in coding.
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/f92e040d-9fa7-43be-b8cf-c4fe6c4dfae1" height="160">
+  <img src="https://github.com/user-attachments/assets/11134c73-7fe1-423f-abfb-b9ffab02be95" height="160">
+</div>
+<br>
 
 ## Installation
 
